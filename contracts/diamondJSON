@@ -3,7 +3,7 @@
 "description": "1/32 of an Ether Chest, entitles the owner to 1/32 of the Ducats minted in 1 validator",
 "external_url": "https://etherchest.com",
 "image": "https://i.imgur.com/ci24feg.gif",
-"organization": "EtherChest Ecosystem""
+"organization": "EtherChest Ecosystem",
 "attributes": [
     {
       "trait_type": "Diamond",
