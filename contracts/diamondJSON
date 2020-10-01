@@ -1,19 +1,24 @@
 {
-"attributes": [
-{
-"trait_type": "Diamond",
-"value": "Testnet"
-},
-{
-"display_type": "number",
-"trait_type": "Stake",
-"value": 1,
-"max_value": 32
-}
-],
 "name": "Diamond",
 "description": "1/32 of an Ether Chest, entitles the owner to 1/32 of the Ducats minted in 1 validator",
-"externalUrl": "https://etherchest.com",
+"external_url": "https://etherchest.com",
 "image": "https://i.imgur.com/ci24feg.gif",
-"organization": "ETHERCHEST, LLC""
+"organization": "EtherChest Ecosystem""
+"attributes": [
+    {
+      "trait_type": "Diamond",
+      "value": "1 ETH"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Stake",
+      "value": 1,
+      "max_value": 32
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "Genesis", 
+      "value": 1646360800
+    }
+  ]
 }
